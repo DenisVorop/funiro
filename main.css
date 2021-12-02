@@ -1141,10 +1141,10 @@ body {
     text-decoration: underline;
 }
 .contacts-footer__item-map {
-  background: url(/images/footer/img_01.svg) left no-repeat;
+  background: url(images/footer/img_01.svg) left no-repeat;
 }
 .contacts-footer__item-phone {
-  background: url(/images/footer/img_02.svg) left no-repeat;
+  background: url(images/footer/img_02.svg) left no-repeat;
 }
 .menu-footer__span {
   display: flex;
